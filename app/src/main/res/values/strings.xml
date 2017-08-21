@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginMVPApp</string>
+    <string name="login_label_user_name">输入用户名</string>
+    <string name="login_label_user_pwd">输入密码</string>
+</resources>
